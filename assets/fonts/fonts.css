@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(font-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(font-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(font-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(font-3.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(font-4.woff2) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nothing You Could Do';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(handwriting-0.woff2) format('truetype');
+}
