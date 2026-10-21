@@ -1,6 +1,6 @@
 # Caroline Pedicure
 
-Een warme, persoonlijke website voor de pedicurepraktijk aan huis van Caroline in Nijmegen. Statische HTML, CSS en JavaScript, zonder installatie of buildstap.
+Een warme, overzichtelijke website voor de pedicurepraktijk aan huis van Caroline in Nijmegen, met complete behandelinformatie en vier originele praktijkfoto’s. Statische HTML, CSS en JavaScript, zonder installatie of buildstap.
 
 ## Lokaal bekijken
 
