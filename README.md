@@ -16,13 +16,13 @@ Ga naar <http://localhost:4173>.
 
 - `index.html`: inhoud, metadata en LocalBusiness-gegevens.
 - `style.css`: vormgeving voor mobiel en desktop.
-- `app.js`: menu, behandelingskeuze, e-mailformulier en privacyvenster.
+- `app.js`: mobiel menu en privacyvenster.
 - `assets/`: lokale afbeeldingen en lettertypen.
 - `robots.txt` en `sitemap.xml`: voorbereid voor het definitieve domein.
 
-## Contactformulier
+## Contact
 
-Het formulier opent een ingevulde e-mail in het e-mailprogramma van de bezoeker. Het verstuurt geen berichten vanaf een server. Bellen, WhatsApp en direct mailen zijn ook beschikbaar. Er worden geen formuliergegevens lokaal opgeslagen.
+Bezoekers kunnen direct bellen, WhatsApp openen of een e-mail sturen. Er is geen contactformulier of verwerking van formuliergegevens.
 
 ## Publiceren
 
